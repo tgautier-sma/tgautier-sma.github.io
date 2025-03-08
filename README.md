@@ -1,3 +1,2 @@
-# github.io
 # tgautier-sma.github.io
-# tgautier-sma.github.io
+Reposirtory for demo files
