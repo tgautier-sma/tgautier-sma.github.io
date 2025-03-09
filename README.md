@@ -1,2 +1,3 @@
 # tgautier-sma.github.io
-Reposirtory for demo files
+
+Repository for demo files
